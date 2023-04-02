@@ -8,6 +8,7 @@ Used Firebase Real time database
      <li>React-Router-dom@6 </li>
      <li>Firebase Real time database </li> 
      <li>Firebase Auth </li>
+     <li>Bootstrap </li>
    </ul>
 
 # IMAGES
